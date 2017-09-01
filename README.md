@@ -344,7 +344,6 @@ Release notes:
 - Fix bug compilation errors
 
 
-
 ### Product Slider v1.2.1
 Released on  2017-04-24
 Release notes: 
